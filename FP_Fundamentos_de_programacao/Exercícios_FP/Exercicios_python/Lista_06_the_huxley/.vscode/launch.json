@@ -1,0 +1,26 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "d:\\My Drive\\Estudos Geral (Drive)\\CESAR SCHOOL\\Graduação 2021.2\\1º Período\\FP - Fundamentos de programação\\Exercícios FP\\Exercicios_python_vs_code\\Lista_06_the_huxley",
+      "environment": [],
+      "program": "d:\\My Drive\\Estudos Geral (Drive)\\CESAR SCHOOL\\Graduação 2021.2\\1º Período\\FP - Fundamentos de programação\\Exercícios FP\\Exercicios_python_vs_code\\Lista_06_the_huxley\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false,
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+sequencia = int(input)
